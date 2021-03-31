@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sindhura.DESKTOP-R25IKCS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sindhura.DESKTOP-R25IKCS\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
